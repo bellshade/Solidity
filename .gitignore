@@ -15,6 +15,7 @@ typechain-types/
 .vscode/
 .idea/
 .states/
+.deps/
 
 # Logs
 logs/
